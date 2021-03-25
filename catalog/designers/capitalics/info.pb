@@ -1,5 +1,4 @@
 designer: "Capitalics"
-link: "https://capitalics.wtf"
-avatar: {
+avatar {
   file_name: "capitalics.png"
 }

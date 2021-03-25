@@ -1,5 +1,4 @@
 designer: "Bonnie Shaver-Troup"
-link: "https://www.lexend.com"
-avatar: {
+avatar {
   file_name: "bonnieshavertroup.png"
 }

@@ -1,5 +1,4 @@
 designer: "Tiro Typeworks"
-link: "https://www.tiro.com/"
-avatar: {
+avatar {
   file_name: "tirotypeworks.png"
 }

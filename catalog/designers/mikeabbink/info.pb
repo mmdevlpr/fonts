@@ -1,5 +1,4 @@
 designer: "Mike Abbink"
-link: "https://www.mikeabbink.com"
-avatar: {
+avatar {
   file_name: "ibmbxd.png"
 }

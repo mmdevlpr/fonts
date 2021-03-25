@@ -1,5 +1,4 @@
 designer: "Paul Hanslow"
-link: "https://www.tiro.com/"
-avatar: {
+avatar {
   file_name: "paulhanslow.png"
 }

@@ -1,5 +1,4 @@
 designer: "Eben Sorkin"
-link: "http://sorkintype.com/about.html"
-avatar: {
+avatar {
   file_name: "eben_sorkin.png"
 }

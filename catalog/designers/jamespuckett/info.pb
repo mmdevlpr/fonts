@@ -1,5 +1,4 @@
 designer: "James Puckett"
-link: "https://plus.google.com"
-avatar: {
+avatar {
   file_name: "james_puckett.png"
 }

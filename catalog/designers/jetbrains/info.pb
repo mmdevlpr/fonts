@@ -1,5 +1,4 @@
 designer: "JetBrains"
-link: "https://www.jetbrains.com"
-avatar: {
+avatar {
   file_name: "jetbrains.png"
 }

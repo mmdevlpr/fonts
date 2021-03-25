@@ -1,5 +1,4 @@
 designer: "Bonjour Monde"
-link: "http://bonjourmonde.net"
-avatar: {
+avatar {
   file_name: "bonjourmonde.png"
 }

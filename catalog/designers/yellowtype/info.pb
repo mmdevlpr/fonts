@@ -1,5 +1,4 @@
 designer: "Yellow Type"
-link: "https://www.yellow-type.com"
-avatar: {
+avatar {
   file_name: "yellowtype.png"
 }

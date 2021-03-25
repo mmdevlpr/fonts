@@ -1,5 +1,4 @@
 designer: "Pooja Saxena"
-link: "https://plus.google.com"
-avatar: {
+avatar {
   file_name: "pooja_saxena.png"
 }

@@ -1,5 +1,4 @@
 designer: "Alessia Mazzarella"
-link: "https://www.type.land/"
-avatar: {
+avatar {
   file_name: "AlessiaMazzarella.png"
 }

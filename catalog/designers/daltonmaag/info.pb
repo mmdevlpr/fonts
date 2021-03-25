@@ -1,5 +1,4 @@
 designer: "Dalton Maag"
-link: "https://plus.google.com"
-avatar: {
+avatar {
   file_name: "dalton_maag.png"
 }

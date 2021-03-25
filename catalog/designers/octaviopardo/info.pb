@@ -1,5 +1,4 @@
 designer: "Octavio Pardo"
-link: "https://www.ashler.design/"
-avatar: {
+avatar {
   file_name: "octaviopardo.png"
 }

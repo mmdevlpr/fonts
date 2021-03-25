@@ -1,5 +1,4 @@
 designer: "Phaedra Charles"
-link: "https://www.undercase.xyz"
-avatar: {
+avatar {
   file_name: "phaedra_charles.png"
 }

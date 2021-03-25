@@ -1,5 +1,4 @@
 designer: "Khaled Hosny"
-link: "https://aliftype.com/"
-avatar: {
+avatar {
   file_name: "khaledhosny.png"
 }

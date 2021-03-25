@@ -1,5 +1,4 @@
 designer: "Impallari Type"
-link: "https://twitter.com/impallaritype"
-avatar: {
+avatar {
   file_name: "impallari_type.png"
 }

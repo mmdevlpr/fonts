@@ -1,5 +1,4 @@
 designer: "Yoshimichi Ohira"
-link: "https://www.zenfont.jp"
-avatar: {
+avatar {
   file_name: "yoshimichi_ohira.png"
 }

@@ -1,5 +1,4 @@
 designer: "Original Type"
-link: "https://originaltype.com"
-avatar: {
+avatar {
   file_name: "original_type.png"
 }

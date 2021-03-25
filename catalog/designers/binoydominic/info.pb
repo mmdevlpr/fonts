@@ -1,5 +1,4 @@
 designer: "Binoy Dominic"
-link: "https://binoydominic.com/"
-avatar: {
+avatar {
   file_name: "binoy_dominic.png"
 }

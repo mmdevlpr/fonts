@@ -1,5 +1,4 @@
 designer: "Mateusz Machalski"
-link: "https://capitalics.wtf"
-avatar: {
+avatar {
   file_name: "mateuszmachalski.png"
 }

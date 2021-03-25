@@ -1,5 +1,4 @@
 designer: "John Hudson"
-link: "https://www.tiro.com/"
-avatar: {
+avatar {
   file_name: "johnhudson.png"
 }

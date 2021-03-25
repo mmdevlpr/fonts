@@ -1,5 +1,4 @@
 designer: "Florian Karsten"
-link: "https://fonts.floriankarsten.com/"
-avatar: {
+avatar {
   file_name: "florian_karsten.png"
 }

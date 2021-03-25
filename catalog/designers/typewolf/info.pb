@@ -1,5 +1,4 @@
 designer: "Typewolf"
-link: "https://plus.google.com"
-avatar: {
+avatar {
   file_name: "typewolf.png"
 }

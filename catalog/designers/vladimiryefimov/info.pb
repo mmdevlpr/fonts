@@ -1,5 +1,4 @@
 designer: "Vladimir Yefimov"
-link: "https://profiles.google.com/VladimirJeffYefimov/about"
-avatar: {
+avatar {
   file_name: "vladimir_yefimov.png"
 }

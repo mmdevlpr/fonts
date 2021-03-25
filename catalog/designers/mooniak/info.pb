@@ -1,5 +1,4 @@
 designer: "Mooniak"
-link: "https://plus.google.com/+Mooniak/about"
-avatar: {
+avatar {
   file_name: "mooniak.png"
 }

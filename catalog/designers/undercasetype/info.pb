@@ -1,5 +1,4 @@
 designer: "Undercase Type"
-link: "https://undercase.xyz/"
-avatar: {
+avatar {
   file_name: "undercase_type.png"
 }

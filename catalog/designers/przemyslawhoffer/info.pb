@@ -1,5 +1,4 @@
 designer: "Przemysław Hoffer"
-link: "https://capitalics.wtf/en/designer/przemyslaw-hoffer"
-avatar: {
+avatar {
   file_name: "przemyslawhoffer.png"
 }

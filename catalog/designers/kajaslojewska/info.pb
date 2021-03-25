@@ -1,5 +1,4 @@
 designer: "Kaja Słojewska"
-link: "https://nomadfonts.com/"
-avatar: {
+avatar {
   file_name: "kajaslojewska.png"
 }

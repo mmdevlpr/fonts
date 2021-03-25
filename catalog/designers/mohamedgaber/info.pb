@@ -1,5 +1,4 @@
 designer: "Mohamed Gaber"
-link: "https://plus.google.com/+gue3bara/about"
-avatar: {
+avatar {
   file_name: "mohamed_gaber.png"
 }

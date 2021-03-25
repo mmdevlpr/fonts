@@ -1,6 +1,4 @@
 designer: "Rony Koch"
-link: "https://ronykoch.myportfolio.com/"
-avatar: {
+avatar {
   file_name: "ronykoch.png"
 }
-

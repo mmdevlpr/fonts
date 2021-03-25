@@ -1,5 +1,4 @@
 designer: "Erin McLaughlin"
-link: "https://plus.google.com"
-avatar: {
+avatar {
   file_name: "erin_mclaughlin.png"
 }

@@ -1,5 +1,4 @@
 designer: "Lars Berggren"
-link: "http://profiles.google.com/punktlars/about"
-avatar: {
+avatar {
   file_name: "lars_berggren.png"
 }

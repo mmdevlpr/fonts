@@ -1,5 +1,4 @@
 designer: "Borna Izadpanah"
-link: "https://plus.google.com"
-avatar: {
+avatar {
   file_name: "borna_izadpanah.png"
 }

@@ -1,5 +1,4 @@
 designer: "Tharique Azeez"
-link: "https://thariqueazeez.com"
-avatar: {
+avatar {
   file_name: "tharique_azeez.png"
 }

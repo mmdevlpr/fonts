@@ -1,5 +1,4 @@
 designer: "Konstantin Bulenkov"
-link: "https://github.com/bulenkov"
-avatar: {
+avatar {
   file_name: "konstantinbulenkov.png"
 }
