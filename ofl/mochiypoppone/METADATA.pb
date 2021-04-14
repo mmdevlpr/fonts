@@ -2,7 +2,7 @@ name: "Mochiy Pop P One"
 designer: "FONTDASU"
 license: "OFL"
 category: "SANS_SERIF"
-date_added: "2021-02-04"
+date_added: "2021-04-14"
 fonts {
   name: "Mochiy Pop P One"
   style: "normal"
@@ -15,7 +15,3 @@ fonts {
 subsets: "japanese"
 subsets: "latin"
 subsets: "menu"
-source {
-  repository_url: "https://github.com/fontdasu/Mochiypop.git"
-  commit: "2c240f5bc8a60bc73979beaed13684d911abe93c"
-}
