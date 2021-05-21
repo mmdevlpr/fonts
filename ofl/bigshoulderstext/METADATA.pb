@@ -21,7 +21,3 @@ axes {
   min_value: 100.0
   max_value: 900.0
 }
-source {
-  repository_url: "https://github.com/xotypeco/big_shoulders"
-  commit: "41153e6fe01d218e933919a1d08c8e45065bc8fe"
-}
