@@ -1,5 +1,5 @@
 name: "Mplus Code Latin"
-designer: "MPlus Fonts"
+designer: "Mplus Fonts"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2021-05-22"
@@ -25,8 +25,4 @@ axes {
   tag: "wght"
   min_value: 100.0
   max_value: 700.0
-}
-source {
-  repository_url: "https://github.com/coz-m/MPLUS_FONTS"
-  commit: "8c6c65ff55f1725b9693b4c3f11d4c253fce8dd0"
 }
