@@ -26,7 +26,3 @@ axes {
   min_value: 100.0
   max_value: 700.0
 }
-source {
-  repository_url: "https://github.com/coz-m/MPLUS_FONTS"
-  commit: "3d3f039069da6b3dc8720c66b87b533481930e15"
-}

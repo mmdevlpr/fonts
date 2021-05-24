@@ -12,8 +12,6 @@ fonts {
   full_name: "Mplus 1 Thin"
   copyright: "Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS)"
 }
-subsets: "chinese-simplified"
-subsets: "chinese-traditional"
 subsets: "japanese"
 subsets: "latin"
 subsets: "latin-ext"
@@ -23,8 +21,4 @@ axes {
   tag: "wght"
   min_value: 100.0
   max_value: 900.0
-}
-source {
-  repository_url: "https://github.com/coz-m/MPLUS_FONTS"
-  commit: "3d3f039069da6b3dc8720c66b87b533481930e15"
 }
