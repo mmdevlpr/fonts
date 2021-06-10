@@ -15,7 +15,3 @@ fonts {
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
-source {
-  repository_url: "https://github.com/Kinutafontfactory/Yuji.git"
-  commit: "3e7328fd6adaad44c8e4a34adcf06df1f05f1d9f"
-}
