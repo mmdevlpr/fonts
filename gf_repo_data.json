@@ -1,6 +1,2014 @@
 {
-    "last_run": "2024-09-23",
+    "last_run": "2024-09-30",
     "commits": [
+        {
+            "date": "2024-09-23T21:57:48",
+            "title": "[Knowledge] [History of Typography] Remove placeholder (#8190)",
+            "author": "shailenpatel2",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "bc55ede294bbeca56da1ebb05f53f50295e004d9"
+        },
+        {
+            "date": "2024-09-20T14:59:16",
+            "title": "Merge pull request #8188 from google/familiescsv",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "5c1ff2a291c4d3fce055e5061220dec57c717b4b"
+        },
+        {
+            "date": "2024-09-20T14:54:16",
+            "title": "Merge pull request #8187 from google/to_list2009",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "e05ec6e0f8202d5507705534c6e6e24a2ecde9d2"
+        },
+        {
+            "date": "2024-09-20T14:50:33",
+            "title": "Update families.csv",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "5f902da70f57c51bbf727e2d6c5bfb867a545527"
+        },
+        {
+            "date": "2024-09-20T13:47:34",
+            "title": "remove none working primary script",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "89480b0863b37cf244db6e234ba925f8fef1fb76"
+        },
+        {
+            "date": "2024-09-20T13:24:21",
+            "title": "Add Sour Gummy",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4d97a940a9481c4a8973103f70cdfe785d308aac"
+        },
+        {
+            "date": "2024-09-20T12:59:11",
+            "title": "Added Miriam Libre",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8f15f2df9a95cacbb293a244068d032cb1dddc12"
+        },
+        {
+            "date": "2024-09-20T12:12:39",
+            "title": "Removes Noto Serif Hentaigana",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b2ab20491c0fcc7f6e2369733a185435fc943921"
+        },
+        {
+            "date": "2024-09-20T12:08:30",
+            "title": "Lists of the 20th of Sept",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4b24f92512d032000bbd2baa13ae87fa8a0eebe1"
+        },
+        {
+            "date": "2024-09-19T13:37:57",
+            "title": "Merge pull request #8098 from google/primary-script-16",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "e4a3bc0ee8788c4a29060cc88dd4af7ac2a9ae4d"
+        },
+        {
+            "date": "2024-09-19T13:36:11",
+            "title": "Merge pull request #8096 from google/primary-script-14",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c09601b3ac40ed462076439e3132195b5ad82058"
+        },
+        {
+            "date": "2024-09-19T13:35:49",
+            "title": "Merge pull request #8095 from google/primary-script-13",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "68a02fbcaa2a02884c4a7cf3dd1e9fb293e569be"
+        },
+        {
+            "date": "2024-09-19T11:50:33",
+            "title": "Merge pull request #8184 from google/gftools_packager_ofl_notosans",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "33d6245eee8ae3efa40a077374c20080de3a8176"
+        },
+        {
+            "date": "2024-09-19T09:35:40",
+            "title": "Fix contribution URL",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "e545d4f89399b3f02049d106f31c3681580b6966"
+        },
+        {
+            "date": "2024-09-19T08:13:40",
+            "title": "Merge pull request #8185 from google/hang-is-kore",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "d2fb6aaec4aa33848aa2098d815b0b991c002aa1"
+        },
+        {
+            "date": "2024-09-19T05:51:20",
+            "title": "For Hangul fonts, we want the script code Kore",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "20276aa14fad4084a5bdafa1aacecc665beb437c"
+        },
+        {
+            "date": "2024-09-19T03:41:00",
+            "title": "Noto Sans: Version 2.014 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "ab3683d56ecc64a4d3eee573f7671791e0eb077b"
+        },
+        {
+            "date": "2024-09-18T08:34:28",
+            "title": "Merge pull request #8173 from khaledhosny/update-bio",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "dbf60e1921f7a81a97ac870972ffb8fd7502dc33"
+        },
+        {
+            "date": "2024-09-18T08:30:37",
+            "title": "Merge pull request #8176 from google/tag-evan",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "312b4f32e0f00cc77beae2501680026f56a200d5"
+        },
+        {
+            "date": "2024-09-18T08:20:27",
+            "title": "Merge pull request #8178 from google/vv-monsalve-patch-2",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "020b97ef252d958166b0629433d50d6e7f1c47c9"
+        },
+        {
+            "date": "2024-09-17T16:48:34",
+            "title": "Update families.csv: Inknut Antiqua",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "02e9b31a3859cd51e9ff38392a0e8cd3cf3a92fd"
+        },
+        {
+            "date": "2024-09-17T12:46:11",
+            "title": "tags.html: Implement Evan feedback",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "171ec154b2199ddcf98e2496f026285295a02833"
+        },
+        {
+            "date": "2024-09-16T22:07:40",
+            "title": "Update khaledhosny/bio.html",
+            "author": "Khaled Hosny",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3f82e5235142c740587b178dcbab59864ad8ad23"
+        },
+        {
+            "date": "2024-09-12T14:04:43",
+            "title": "Merge pull request #8154 from google/Edu-Dots-Guides",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8c96cf9b92a7fdde2702132bf5a73fd64c8766d9"
+        },
+        {
+            "date": "2024-09-12T14:03:50",
+            "title": "Merge pull request #8167 from google/lang-0.6.4",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "c95e8a4686015170956fba5ed718e12459007be4"
+        },
+        {
+            "date": "2024-09-12T13:39:13",
+            "title": "Merge commit '9f60a8d1bd982fe5dea1286b13b51d4ada1e0591' into lang-0.6.4",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "6bcf600ea1d13bbdc5b2cc69dbd4dfea43680e11"
+        },
+        {
+            "date": "2024-09-12T10:55:43",
+            "title": "Merge pull request #164 from googlefonts/bangla",
+            "author": "Simon Cozens",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "9f60a8d1bd982fe5dea1286b13b51d4ada1e0591"
+        },
+        {
+            "date": "2024-09-12T10:07:33",
+            "title": "Other languages using Bangla script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "e4e9d409fb239b46ec05519328b786da12f218d7"
+        },
+        {
+            "date": "2024-09-12T10:02:29",
+            "title": "Merge pull request #163 from googlefonts/move-lang-sample-text",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "257af538708655ffaf9a3593e28a0217dbca47e6"
+        },
+        {
+            "date": "2024-09-12T10:01:57",
+            "title": "Change 'Bengali' to 'Bangla'",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "fe4b8afad20d315926f2de1422657ec7ef8879ae"
+        },
+        {
+            "date": "2024-09-12T09:59:52",
+            "title": "Merge pull request #162 from googlefonts/new-maori",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a16f59dada64d33b2c37be16f303eda9bc04c5a3"
+        },
+        {
+            "date": "2024-09-12T09:53:32",
+            "title": "Move sample text updater from gftools to here",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "15a5c30221862e06300f865f37d2860589e9e9d3"
+        },
+        {
+            "date": "2024-09-12T09:50:22",
+            "title": "Improve Maori sample, fixes #55",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "446878eb5c94436e474d93bc7cd7e49c8c837833"
+        },
+        {
+            "date": "2024-09-12T08:44:04",
+            "title": "Merge pull request #161 from googlefonts/chinook-jargon",
+            "author": "Simon Cozens",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "66b0fa648927e2d00e071c124299123b44186954"
+        },
+        {
+            "date": "2024-09-12T06:57:20",
+            "title": "No Chinook Jargon in the US",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4beb50012cd42079781c299cf9746036402c2b23"
+        },
+        {
+            "date": "2024-09-12T06:55:39",
+            "title": "Merge pull request #160 from googlefonts/fix-ukranian",
+            "author": "Simon Cozens",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "3b435fe6a0a23b9a6c9af895699ab3370ae757e1"
+        },
+        {
+            "date": "2024-09-12T06:37:39",
+            "title": "Improvements to Ukrainian as per #155",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "e06ea87571e72294d38fd153936cb013b2f51f83"
+        },
+        {
+            "date": "2024-09-11T15:30:13",
+            "title": "Merge pull request #8159 from google/fix-ci",
+            "author": "Simon Cozens",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "e72e7ce4e10ee2e5df10ca6e1311b5fd9674c9c5"
+        },
+        {
+            "date": "2024-09-11T15:24:03",
+            "title": "Upgrade upload-artifact",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d28c65887b7a856d0273277ee97bac5db05ec2b9"
+        },
+        {
+            "date": "2024-09-11T13:42:30",
+            "title": "Merge pull request #8094 from google/primary-script-12",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "369f705a0060697f4a85670b7819dc9587c29ce1"
+        },
+        {
+            "date": "2024-09-11T12:36:52",
+            "title": "Merge pull request #8144 from google/pushlists",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a59c462c7b25dafed6281ac50d326328792648bf"
+        },
+        {
+            "date": "2024-09-11T12:32:38",
+            "title": "Update to_production.txt",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "c8858ffad921601b5648fa3438a271a50f22bf50"
+        },
+        {
+            "date": "2024-09-11T11:20:52",
+            "title": "Merge pull request #159 from googlefonts/todhri",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "9801ef19f727ad9ed71713d290cc3414325ce774"
+        },
+        {
+            "date": "2024-09-11T10:46:40",
+            "title": "Merge pull request #8093 from google/primary-script-11",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3162e46b376b6462d8e71645fa35b1d5a8b66c5b"
+        },
+        {
+            "date": "2024-09-11T10:46:21",
+            "title": "Merge pull request #8092 from google/primary-script-10",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ffa93f8f429b2cb3e4b086555f2eea225bb66d8e"
+        },
+        {
+            "date": "2024-09-11T09:11:37",
+            "title": "Merge pull request #8091 from google/primary-script-09",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a8bbd9f12b9e04d6552e58caf200e7ef94a0f0af"
+        },
+        {
+            "date": "2024-09-10T13:40:36",
+            "title": "Edu families: Dots + Guides fix",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4aadf6ce72a3c469f9b80e4f5c058a78f07dc3bc"
+        },
+        {
+            "date": "2024-09-10T10:41:55",
+            "title": "Merge pull request #8148 from ethamck/patch-1",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ba2009596755909606108518564be4a777f38337"
+        },
+        {
+            "date": "2024-09-10T10:36:40",
+            "title": "Merge pull request #8090 from google/primary-script-08",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "952dd109035a2c361e193c7d153879e80d69f392"
+        },
+        {
+            "date": "2024-09-10T10:36:16",
+            "title": "Merge pull request #8089 from google/primary-script-07",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d8dbb4b5453781cda4df4cb245ab4247188f7acf"
+        },
+        {
+            "date": "2024-09-10T08:04:00",
+            "title": "Merge pull request #8153 from google/m4rc1e-patch-12",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "715066f331ec086ef5add5e12c5c8fd59762f304"
+        },
+        {
+            "date": "2024-09-10T08:02:28",
+            "title": "families.csv: Add Edu Australia VIC WA NT Hand Dots",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "bcd6c5f4ddc29c38d2cda3d0cfb776b5d838f597"
+        },
+        {
+            "date": "2024-09-08T00:33:35",
+            "title": "Fix broken link in figcaption",
+            "author": "ethamck",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ddb4ec73662be1dbb77ac05c0bacc51f9b381671"
+        },
+        {
+            "date": "2024-09-06T15:01:00",
+            "title": "Update pushlists",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "21688612d97c13966e8ffd7eb451f34835611d45"
+        },
+        {
+            "date": "2024-09-06T12:51:50",
+            "title": "Merge pull request #8088 from google/primary-script-06",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "34f78ebb503b2e2d65cdec54822bbdb65055bb02"
+        },
+        {
+            "date": "2024-09-06T12:49:11",
+            "title": "Add Todhri",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "bd9ad711242b1050ac4ff135db1dc716828b8e3c"
+        },
+        {
+            "date": "2024-09-06T12:11:29",
+            "title": "Merge pull request #8087 from google/primary-script-05",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "fec18951ce29981681739fa24c7381ca1928af94"
+        },
+        {
+            "date": "2024-09-06T12:11:05",
+            "title": "Merge pull request #8086 from google/primary-script-04",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3857c894ee313c365548600dd16c5bc1e3fe969f"
+        },
+        {
+            "date": "2024-09-06T11:45:17",
+            "title": "Merge pull request #8134 from google/gftools_packager_ofl_librefranklin",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "f1b6ddb6fdf48ed6935dac77f438bf4ede375b74"
+        },
+        {
+            "date": "2024-09-05T14:57:38",
+            "title": "Merge pull request #8139 from google/m4rc1e-patch-12",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "4f22e51da9bea567b6224ba1981b30977caa79bf"
+        },
+        {
+            "date": "2024-09-05T14:57:02",
+            "title": "families.csv: Add more families",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "0a134f57e755e852f0874b826efee91b0f0eaed3"
+        },
+        {
+            "date": "2024-09-05T10:17:54",
+            "title": "Merge pull request #8135 from google/tag-hist",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "46b0e31be806a468b3ae2e1ef3a5afcb5e37c839"
+        },
+        {
+            "date": "2024-09-05T10:11:19",
+            "title": "tags.html: Add history panel",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "518041cf5dbfbd423c766079c515210e2005480b"
+        },
+        {
+            "date": "2024-09-05T09:40:50",
+            "title": "remove statics",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "8e7a5aa44f9783d6d057d73ddc383ed7a9a58e08"
+        },
+        {
+            "date": "2024-09-05T09:30:40",
+            "title": "Libre Franklin: Version 3.000 added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "a2daac853851393356624c3a63cf2727da3d1960"
+        },
+        {
+            "date": "2024-09-05T08:48:25",
+            "title": "Merge pull request #8085 from google/primary-script-03",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b7a7bc9fed110e373eee9e9dd129275e30170d91"
+        },
+        {
+            "date": "2024-09-05T08:47:39",
+            "title": "Merge pull request #8084 from google/primary-script-02",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "15dbf767deb8af8404e4574cf06efca1e8b17f1b"
+        },
+        {
+            "date": "2024-09-04T15:22:13",
+            "title": "Merge pull request #8133 from google/m4rc1e-patch-12",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "6ea9db4fec2dd76076dd7a532448313043821a6c"
+        },
+        {
+            "date": "2024-09-04T15:17:51",
+            "title": "Update families.csv",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "98152af944618dd1c066cededf67e4453b567011"
+        },
+        {
+            "date": "2024-09-03T16:08:27",
+            "title": "Pull in updates from lang subtree (#8132)",
+            "author": "Nathan Williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4528dc803bd11a5602c320edf270d7975cd12dd0"
+        },
+        {
+            "date": "2024-09-03T16:08:16",
+            "title": "Merge pull request #8131 from google/rsheeter-patch-3",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "882a1084c89761dd362022105415425012be86c5"
+        },
+        {
+            "date": "2024-09-03T16:01:39",
+            "title": "Fix typos in Alata description",
+            "author": "Rod",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "f4fdab0f9a868f3b9c357dce00b468a0e29e740a"
+        },
+        {
+            "date": "2024-09-03T15:20:32",
+            "title": "Merge pull request #8129 from google/m4rc1e-patch-10",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "5a7eb98527690028ffce3a1db175de70047006b5"
+        },
+        {
+            "date": "2024-09-03T15:16:19",
+            "title": "families.csv: sort",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "564d2306b475323077f2efa1c503d77aa0f6601e"
+        },
+        {
+            "date": "2024-09-03T09:15:57",
+            "title": "Merge pull request #8083 from google/primary-script-01",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "cee2b3a938f412eb30c32c8d04fde5a09fc4d903"
+        },
+        {
+            "date": "2024-09-03T08:34:38",
+            "title": "Merge pull request #8128 from google/universalthirst-typo-tags",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "e9da2bd354720d25536a5842ea4f4f6a5ca38f03"
+        },
+        {
+            "date": "2024-09-03T08:31:37",
+            "title": "Adds fixes to typographic tag issues identified by Evan",
+            "author": "Kalapi Gajjar",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d85a2d015228feedb214b07db02090453d1d195b"
+        },
+        {
+            "date": "2024-09-02T12:44:01",
+            "title": "Merge pull request #8125 from google/revert-8111-m4rc1e-patch-9",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "9a1997e8b7a10e0e47e5de54b86b4395b4269e2b"
+        },
+        {
+            "date": "2024-09-02T12:43:51",
+            "title": "Revert \"families.csv: sort alphabetically\"",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c1be4af9ca972cb4bb259bf1210537d2996c32fa"
+        },
+        {
+            "date": "2024-08-30T09:32:11",
+            "title": "Merge pull request #8111 from google/m4rc1e-patch-9",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "1f294bb2bcd35b8a68b4c7ae7fceb469f91207ba"
+        },
+        {
+            "date": "2024-08-29T15:08:41",
+            "title": "families.csv: sort alphabetically",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "09fd4375878a45f6e8327027cb512867ca9fa169"
+        },
+        {
+            "date": "2024-08-29T15:06:56",
+            "title": "Merge pull request #8110 from google/tags-sort",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "72687ed61799a9aacd90f79ed38d052216072ed5"
+        },
+        {
+            "date": "2024-08-29T15:05:48",
+            "title": "tags.html: sort output alphabetically",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "9ae70079a87d6025e0559d9aca3459376ae07f02"
+        },
+        {
+            "date": "2024-08-29T14:50:19",
+            "title": "Merge pull request #8109 from google/tags-rm-fams",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "5a9eec5effbff09681ab290c6d7a892ba190a6f2"
+        },
+        {
+            "date": "2024-08-29T14:41:52",
+            "title": "families.csv: rm families that do not exist",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "34eee7d024a7db15de919d137e2b7ec811236ba2"
+        },
+        {
+            "date": "2024-08-28T08:31:02",
+            "title": "families.csv: rm vintage tags from barcode families",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "837ea2455cc1e7291f28820071cdebaff5b4e752"
+        },
+        {
+            "date": "2024-08-27T21:11:47",
+            "title": "Update to_sandbox.txt (#8106)",
+            "author": "Rod",
+            "status": "modified",
+            "kind": "family",
+            "id": "a51886a7bb68bcfa2560f3cf46a8c4232feaa3ed"
+        },
+        {
+            "date": "2024-08-27T17:20:04",
+            "title": "Merge pull request #157 from googlefonts/add-removable",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "bffb3c66800daf010b2f5b92e0994507c9aa71ee"
+        },
+        {
+            "date": "2024-08-27T14:41:42",
+            "title": "Merge pull request #8079 from google/lists-Aug-23",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c22de03fc6441f6f9fc70c248f7805069f5e1108"
+        },
+        {
+            "date": "2024-08-27T14:27:25",
+            "title": "COLRv1 font deleted from to prod list",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "80e884965b7cdb2f2ddee136af66ef0dba3ad214"
+        },
+        {
+            "date": "2024-08-27T12:47:06",
+            "title": "Merge pull request #8103 from google/m4rc1e-patch-9",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "62413055a565ca94d5aca13233cc09cc3ae42e8b"
+        },
+        {
+            "date": "2024-08-27T12:00:25",
+            "title": "families.csv: Add more families",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "fb5cce805852973cbd8c8d91f25b77b8289d39e2"
+        },
+        {
+            "date": "2024-08-27T11:10:24",
+            "title": "Merge pull request #8102 from google/tags-dave-req",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "0f518c6f8d316692a4386aa28f20bd5c66d2e44b"
+        },
+        {
+            "date": "2024-08-27T10:40:44",
+            "title": "tags: implement dave c feedback",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ef67e71ecb9c57d1e6487654bcddbb7c6797a498"
+        },
+        {
+            "date": "2024-08-27T09:38:02",
+            "title": "Merge pull request #8077 from google/tags-no-fams",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "9f71aef8fd0f92d447917d615d1b82d005fd115c"
+        },
+        {
+            "date": "2024-08-27T09:37:14",
+            "title": "tags: Remove families not in dev or upcoming in the pipeline",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "315c79f79390e53a32f65c95a711cb4406ddfd5f"
+        },
+        {
+            "date": "2024-08-27T08:59:59",
+            "title": "Merge pull request #8101 from google/m4rc1e-patch-9",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "57e348189ff2f61a13d7fa95715198f9dde1dec7"
+        },
+        {
+            "date": "2024-08-27T08:39:20",
+            "title": "knowledge: rm sizecalc.com url",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "1f6dff2c55a78e4c30cf5a9768d15dffca8d760e"
+        },
+        {
+            "date": "2024-08-26T17:04:02",
+            "title": "Rename removable to not_required",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "5248f078360a3fa54ee44c8bac2d54fbd01d18a6"
+        },
+        {
+            "date": "2024-08-26T15:52:35",
+            "title": "Merge pull request #156 from googlefonts/duplicate-ids",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "62f135e21c434c217abc9c2d341f124acb613add"
+        },
+        {
+            "date": "2024-08-26T13:39:42",
+            "title": "Recompile protobuf (protoc 3.17.3)",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "68177e6df46db0717ce023be3878063b0e35caa3"
+        },
+        {
+            "date": "2024-08-26T13:35:32",
+            "title": "Add LATIN CAPITAL LETTER SHARP S to removable",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "07a2d635b27891855b3324e71310308b63751a16"
+        },
+        {
+            "date": "2024-08-26T13:35:13",
+            "title": "Add \"removable\" category of characters not required for language support",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "ecc71b8e5623a776b14136e7e02515d27b5dc660"
+        },
+        {
+            "date": "2024-08-26T10:15:33",
+            "title": "Not greek",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "e32e24ee8471494d0103b3837842f423bb74d04f"
+        },
+        {
+            "date": "2024-08-26T10:15:22",
+            "title": "Not Japanese",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "dd39a05e8fe300ffa4b09a105b5aa997db928e4f"
+        },
+        {
+            "date": "2024-08-26T10:13:06",
+            "title": "Correct Jpan->Hans",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d2100b5f7153006029577c724c0ad5b4ffba8480"
+        },
+        {
+            "date": "2024-08-26T10:11:29",
+            "title": "Correct primary script of Liu Jian Mao Cao",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7dd9731a4e7292d68d8f3fa3c405cd0e835f2c03"
+        },
+        {
+            "date": "2024-08-26T10:07:32",
+            "title": "Remove primary script Deva for Inknut",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8460441912bd9abd34510e11a7c096cb102d885c"
+        },
+        {
+            "date": "2024-08-26T09:53:04",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "acae917991fb47b4c20864b4355acccbfe6fa23a"
+        },
+        {
+            "date": "2024-08-26T09:53:03",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1645808df5b5d45b71f8098a01b9b657e5c9fbca"
+        },
+        {
+            "date": "2024-08-26T09:53:03",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a644252f8a78cc38edbe5a03907c07434d6d2137"
+        },
+        {
+            "date": "2024-08-26T09:53:02",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8f355e8884f6663f137ab0f978263683dac5d07c"
+        },
+        {
+            "date": "2024-08-26T09:53:02",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "696857c9cd2eafde33a17a49be1b1b161018a2b2"
+        },
+        {
+            "date": "2024-08-26T09:53:01",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c201127236fb03a66ce27340779368ebea7b858c"
+        },
+        {
+            "date": "2024-08-26T09:53:00",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "32bbd1b48b46ce4fff9e0292a6b0cddd7b536805"
+        },
+        {
+            "date": "2024-08-26T09:53:00",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3002c24ff52b3d3679e425e809d62c5b997bde2b"
+        },
+        {
+            "date": "2024-08-26T09:52:59",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "abf76b293d8eec6068ef9fb767ebf6ae623dcee0"
+        },
+        {
+            "date": "2024-08-26T09:52:59",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ca99119fbb8afdaa6ff31c83302ef78562c878c9"
+        },
+        {
+            "date": "2024-08-26T09:52:58",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "de4d7d5e24a70c855ca150a620ff2b1bcc7be55d"
+        },
+        {
+            "date": "2024-08-26T09:52:58",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1bca224e6201fe701333d5aff3f9ca935186c3a8"
+        },
+        {
+            "date": "2024-08-26T09:52:57",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "70edd092d731e0b325159f9e9a9b7b3baa14b04e"
+        },
+        {
+            "date": "2024-08-26T09:52:56",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a94b726a22688557251642e2e1e8476cf5d5dc2c"
+        },
+        {
+            "date": "2024-08-26T09:52:56",
+            "title": "Set primary script",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "1748832a9a0e003200e98543803cd98fc73445bf"
+        },
+        {
+            "date": "2024-08-26T05:58:49",
+            "title": "[Font Category Tagginh] Updates to data for Business, Competent, Sincere, and Stiff (#8081)",
+            "author": "Kalapi Gajjar",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "132fe269f2819870f2405f4e55266085867d6251"
+        },
+        {
+            "date": "2024-08-23T19:53:14",
+            "title": "Push lists August 23 update",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "34ccebfc4846a4a787a8eb8c8ab32eba7c01579e"
+        },
+        {
+            "date": "2024-08-23T15:32:23",
+            "title": "Rename to Language, Place",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "a0e70c0d30569ad8996abb701dbb6e48159a0489"
+        },
+        {
+            "date": "2024-08-23T12:46:42",
+            "title": "Merge pull request #8076 from google/tag-scripts",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "d917462c0d0f44b2e205aeb769790a175b3e752f"
+        },
+        {
+            "date": "2024-08-23T08:36:41",
+            "title": "tags.html: auto select pangram based on scripts supported in the font",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "56a5e154c1ca4a6dba476b902477116bb9c45d5d"
+        },
+        {
+            "date": "2024-08-22T14:44:25",
+            "title": "Merge pull request #7849 from google/gftools_packager_ofl_notoserifolduyghur",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "0c3004841b06eddebe04d821bf67f6e8634b2993"
+        },
+        {
+            "date": "2024-08-22T01:22:04",
+            "title": "Update to_production.txt (#8074)",
+            "author": "nyshadhr9",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "dd774d21ab1d83c7d2e27bc90ff6f43e2766ea10"
+        },
+        {
+            "date": "2024-08-21T14:07:39",
+            "title": "Merge pull request #7964 from google/gftools_packager_ofl_notosansmongolian",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "fe01d7048643b1060e241928654258479a2cfc95"
+        },
+        {
+            "date": "2024-08-21T09:23:36",
+            "title": "Merge pull request #7996 from google/ftxvalidator",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "0019a0cc2d72c7d06e7b13009281800d57f87758"
+        },
+        {
+            "date": "2024-08-21T02:58:14",
+            "title": "Update to_sandbox.txt (#8072)",
+            "author": "nyshadhr9",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "12da35c19566e4b56c954afea10920d894fb0db7"
+        },
+        {
+            "date": "2024-08-20T22:41:48",
+            "title": "Merge pull request #8071 from google/csv-Edu-AU-VIC-addition",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "489c9ce18dea2eec808cbce15cc16c2057a8ff16"
+        },
+        {
+            "date": "2024-08-20T22:26:43",
+            "title": "Edu AU VIC WA NT families tagging added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "6d24d1b62e3e5fd8d263c06b615d5411ee5b9e6e"
+        },
+        {
+            "date": "2024-08-20T22:06:53",
+            "title": "Merge pull request #8070 from google/EduAUVICWANTArrows-smallfix",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "dc8dc1b7ea7627f4ffdedc1ab857640108114491"
+        },
+        {
+            "date": "2024-08-20T21:56:40",
+            "title": "Merge pull request #8020 from google/gftools_packager_ofl_eduauvicwantdots",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "3ee8c2408447ac45ae1a83116794301d9eccda1a"
+        },
+        {
+            "date": "2024-08-20T21:53:20",
+            "title": "Edu AU VIC WA NT Arrows display_name fix",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "28b557484787dc9fb85cdaaacc8c612eabe5b659"
+        },
+        {
+            "date": "2024-08-20T21:39:57",
+            "title": "Merge pull request #8021 from google/gftools_packager_ofl_eduauvicwantguides",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "8603b7d261c0cb5ce6130ff7c09fcc16541452d5"
+        },
+        {
+            "date": "2024-08-20T21:15:59",
+            "title": "Update METADATA.pb display_name",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "8715b34018aaaf1c00a6bddf3bb5f4a3bfae8be3"
+        },
+        {
+            "date": "2024-08-20T21:05:48",
+            "title": "Merge pull request #8050 from google/gftools_packager_ofl_notoserifhk",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "f8be24ff9d33b38f55ff97d90c6be192b06c24ee"
+        },
+        {
+            "date": "2024-08-20T20:55:18",
+            "title": "Merge pull request #8051 from google/gftools_packager_ofl_notoserifjp",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "d38f0ff04647b321cc37fd6dbccabcd59caa2c7e"
+        },
+        {
+            "date": "2024-08-20T20:50:04",
+            "title": "Update METADATA.pb display_name",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "42cbd18e0c1c1902a59a09bfce961c8d209ef16d"
+        },
+        {
+            "date": "2024-08-20T20:47:23",
+            "title": "Merge pull request #8052 from google/gftools_packager_ofl_notoserifkr",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "a547ca6001454ebeee4b23917e90723e217d062f"
+        },
+        {
+            "date": "2024-08-20T18:29:34",
+            "title": "Merge pull request #8053 from google/gftools_packager_ofl_notoserifsc",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "001e4fa8f1347e5334a7c34d666254c23f1fc9c2"
+        },
+        {
+            "date": "2024-08-20T17:33:41",
+            "title": "Merge pull request #8056 from google/gftools_packager_ofl_notoseriftc",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "3f2272070e64d4c0f2eceff0b2346700a7fb7f2a"
+        },
+        {
+            "date": "2024-08-20T17:08:10",
+            "title": "Merge pull request #8063 from google/davelab6-seaweed-khmer",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "66ef41cdc1964369c73d1ddd712bea0d66f4bc9e"
+        },
+        {
+            "date": "2024-08-20T17:06:08",
+            "title": "Merge pull request #8069 from google/lists-Ag-20",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "24fc5f168f1f4cbf2b34dbc786b1f09905aae021"
+        },
+        {
+            "date": "2024-08-20T16:20:52",
+            "title": "delisting language PR#7792 -- already Live",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "dd4cb38d8bdda5e2ed099f919e20e57cdaf0250d"
+        },
+        {
+            "date": "2024-08-20T15:52:30",
+            "title": "push lists updated August 20th",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "0e3cbcff62fbb48b175f881c37cf2ce3afafe953"
+        },
+        {
+            "date": "2024-08-20T13:01:57",
+            "title": "Merge pull request #8068 from google/m4rc1e-patch-9",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "06ef02c1cc6cee40f7ee0be16ff16d78da1b1682"
+        },
+        {
+            "date": "2024-08-20T13:01:36",
+            "title": "families.csv: Add more families",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7127acd6d7868f2e8d4432d6e8fd7d15b883bff2"
+        },
+        {
+            "date": "2024-08-20T11:45:41",
+            "title": "Merge pull request #8048 from ahmoin/fix-typos",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "546d39db54176476b55f01a991b83d05e28658d7"
+        },
+        {
+            "date": "2024-08-20T11:35:33",
+            "title": "Merge pull request #8066 from google/m4rc1e-patch-8",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "840f99c57ed03eaf74c726f9a15a13aceb38601f"
+        },
+        {
+            "date": "2024-08-20T10:56:53",
+            "title": "families.csv: Fix /Expressive/Vintage",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "23d919cb83a52f7a44052b8fcf25de472fac7cb1"
+        },
+        {
+            "date": "2024-08-20T10:42:28",
+            "title": "Merge pull request #8065 from google/m4rc1e-patch-7",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "ca4eb74847ca386b7c22ba7656f93d242de5935d"
+        },
+        {
+            "date": "2024-08-20T10:41:18",
+            "title": "tags: add some families and rm trailing commas",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "8ea97ce4fe81dc57fefd2fbd2cf083bbb81683a4"
+        },
+        {
+            "date": "2024-08-19T22:00:48",
+            "title": "Update fasthand, taprom and seaweedscript credits",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "family",
+            "id": "707e04e90c873aab01ca016926f8f8b9aace7363"
+        },
+        {
+            "date": "2024-08-19T21:40:48",
+            "title": "Merge pull request #8055 from google/tags-vintage",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "3f5f2f8704fbbb59544666934772b7187ebf7363"
+        },
+        {
+            "date": "2024-08-19T16:02:25",
+            "title": "Noto Serif TC: Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "6d17dab13b85129360f9748f057c7f67c5f484d4"
+        },
+        {
+            "date": "2024-08-19T15:10:19",
+            "title": "Fix up languages with non-unique IDs",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "bac8f7c3c51609785e8a2dd6210e20241202c990"
+        },
+        {
+            "date": "2024-08-19T15:09:58",
+            "title": "Assert uniqueness of all IDs",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "be426cd01d42047ff878f8351f43acbe52bf5333"
+        },
+        {
+            "date": "2024-08-19T14:50:50",
+            "title": "tags: Update Vintage",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "e44f05fdc7e823860631c6636e8f7053f23ee6dc"
+        },
+        {
+            "date": "2024-08-19T12:43:15",
+            "title": "Noto Serif SC: Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "2e61f4355afd22b801791b0df176065082423b87"
+        },
+        {
+            "date": "2024-08-19T11:00:26",
+            "title": "Noto Serif KR: Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "d58d8d9f1c5c68363f51f4696bb79af59bc7cf0e"
+        },
+        {
+            "date": "2024-08-19T10:56:23",
+            "title": "Noto Serif JP: Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "8a7c74854f766ae441c7584925cc0ec626fc5aa6"
+        },
+        {
+            "date": "2024-08-19T10:24:46",
+            "title": "Override packager",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "213d5bb1b5a02f891e14642d3d2899a45d2bc5d3"
+        },
+        {
+            "date": "2024-08-19T09:48:29",
+            "title": "Noto Serif HK: Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "e77694ec3e5af6a320303ab387537e9fe995c595"
+        },
+        {
+            "date": "2024-08-19T09:00:27",
+            "title": "Merge pull request #8049 from google/loud-tag",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "a51fe019e48c071e3afc596c54aa21aa13feb02c"
+        },
+        {
+            "date": "2024-08-19T08:57:29",
+            "title": "tags: add new loud tags",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "55122aaeaf86f57cc2488a3fd1b5ab9720471a2c"
+        },
+        {
+            "date": "2024-08-17T15:31:53",
+            "title": "fix: communites -> communities typos",
+            "author": "Ahsan Moin",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "e0f317d04eb5e1eb541ba88d0f84dd607dc5f601"
+        },
+        {
+            "date": "2024-08-17T00:55:19",
+            "title": "Merge pull request #8046 from google/SUSE-designer-typo-fix",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "7af4b9742f1df8b9f2f3695fb2ddc782dd505b2d"
+        },
+        {
+            "date": "2024-08-17T00:47:57",
+            "title": "SUSE designer typo fix",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "191830edc5873e535e477a6c8973e3136a8c9a8f"
+        },
+        {
+            "date": "2024-08-17T00:37:52",
+            "title": "Merge pull request #8045 from google/ReneBieder",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "247a9735b59facf9db76fd2e921e98aa6c89b8b9"
+        },
+        {
+            "date": "2024-08-17T00:17:04",
+            "title": "Update bio.html small fixes",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "cedbb4b3e5a8b1cd3c26773bd69d9d3d76fcbb2a"
+        },
+        {
+            "date": "2024-08-17T00:15:46",
+            "title": "Update bio.html",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "578a19ea963508f289a7b95d5af192ae480352d8"
+        },
+        {
+            "date": "2024-08-17T00:13:39",
+            "title": "Ren\u00e9 Bieder designer added",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "designer",
+            "id": "1c21e403a672eb11ae254e61582726b1f957ca61"
+        },
+        {
+            "date": "2024-08-17T00:03:34",
+            "title": "Merge pull request #8044 from google/gftools_packager_ofl_suse",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "79f5234887766e00ed180045e38547637545945a"
+        },
+        {
+            "date": "2024-08-16T23:13:49",
+            "title": "SUSE article added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d14917136c7b85a8cf406d799db30098196b1155"
+        },
+        {
+            "date": "2024-08-16T23:10:13",
+            "title": "SUSE: Version 1.000 added",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "family",
+            "id": "58f125dcf0354655eab82d0c9fe74fbc67a827ba"
+        },
+        {
+            "date": "2024-08-16T22:36:56",
+            "title": "Merge pull request #8043 from google/csv-restoring-data",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "6d2d5767d1aef5c982b3d9245895f734bcdfca0e"
+        },
+        {
+            "date": "2024-08-16T22:23:50",
+            "title": "Freeman tags added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b2f24e8ab6dc10d37e1682594860c5b748a0f1f5"
+        },
+        {
+            "date": "2024-08-16T22:04:13",
+            "title": "Edu AU VIC WA NT Hand tags added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "df29d3690093eb259e4522196d0c13dee84b1159"
+        },
+        {
+            "date": "2024-08-16T21:55:50",
+            "title": "Revert \"Edu families: Simons' categorization restored\"",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f6c190228645d64f3c28c594d562d3c76d0b975e"
+        },
+        {
+            "date": "2024-08-16T20:42:33",
+            "title": "Bungee Tint tags added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ec3070e315cc6f16e9b7f4a67f334bf662fb7b3d"
+        },
+        {
+            "date": "2024-08-16T20:18:30",
+            "title": "Kalnia Glaze tags added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d16abf70f28dabe4d72aea3aab445441c16f4ebf"
+        },
+        {
+            "date": "2024-08-16T20:07:29",
+            "title": "SUSE info added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ab10788061e75aa41e3bf9bc92c00d63b85d50e1"
+        },
+        {
+            "date": "2024-08-16T18:18:02",
+            "title": "Playwrite families revised + added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "40d7e43aaf095c78e7f6274e2c12e70588b37a85"
+        },
+        {
+            "date": "2024-08-16T17:28:49",
+            "title": "Edu families: Simons' categorization restored",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7d726ac248fbaf6be5d964ba3dcef9659bfcff99"
+        },
+        {
+            "date": "2024-08-16T14:47:12",
+            "title": "Merge pull request #8041 from google/tag-test",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "9f3f7be08db7373cd40474914a92b20c41c91fa8"
+        },
+        {
+            "date": "2024-08-16T13:26:30",
+            "title": ".ci/test_font_tags.py added",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "2e6f31d2f71586790aca5b4fbfa82d802d2975e1"
+        },
+        {
+            "date": "2024-08-16T10:15:44",
+            "title": "Merge pull request #8036 from google/tag-html2",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "57d5570c428f51f0437569880e76a02130efd967"
+        },
+        {
+            "date": "2024-08-16T10:00:08",
+            "title": "tags.html: use Adobe notdef for missing fonts",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c94a8275b0cd5b064d2f65bbe852112fa0f28da4"
+        },
+        {
+            "date": "2024-08-16T08:51:41",
+            "title": "tags.html: move pr button left",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1d4d781aa3697575ee0751f9105b33c2faca74b0"
+        },
+        {
+            "date": "2024-08-16T08:50:37",
+            "title": "fix family loading",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "67d4c193aba559d5665df50e1673635b7fe4d097"
+        },
+        {
+            "date": "2024-08-16T08:38:19",
+            "title": "tags.html: Implement viv feedback",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "9710875ecf394f2bc8a4f0bf18769fa37f82ad1d"
+        },
+        {
+            "date": "2024-08-16T04:31:59",
+            "title": "Merge pull request #8013 from google/hentaigana-sample",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "794d8118dd4ddf98906aee2ee74d8b3d4657e92a"
+        },
+        {
+            "date": "2024-08-16T04:21:20",
+            "title": "Merge pull request #8005 from emmamarichal/batsiraimadzonga",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "designer",
+            "id": "c2495d853e4891f6ca9215c382eb76e67de40bed"
+        },
+        {
+            "date": "2024-08-16T03:47:30",
+            "title": "Merge pull request #8035 from google/AdamYeo",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "fa3a9a3bf481bce84e60d106adea9543aa76fa27"
+        },
+        {
+            "date": "2024-08-16T03:43:16",
+            "title": "Update bio.html",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "5832f86546cca7d269cd906a18b3858537df2f84"
+        },
+        {
+            "date": "2024-08-16T03:29:04",
+            "title": "Designer Adam Yeo added",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "designer",
+            "id": "fe58ce16173eafeb9cd26d621c57b0c8a5cd82c5"
+        },
+        {
+            "date": "2024-08-16T03:23:27",
+            "title": "Merge pull request #7992 from google/davelab6-tiny5-copyright-notice",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ca65da399bd048853275a2b748fd96ad2b5582ae"
+        },
+        {
+            "date": "2024-08-15T20:15:53",
+            "title": "Merge pull request #7447 from google/gftools_packager_ofl_eduvicwantarrows",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "family",
+            "id": "869ddb7d33dbbbb1cb62d59bb2bd4091cd981712"
+        },
+        {
+            "date": "2024-08-15T12:48:47",
+            "title": "Merge pull request #8029 from google/tag-pr",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "a0ddb914ecc58d2e2661751f93e60a485c471554"
+        },
+        {
+            "date": "2024-08-15T12:33:07",
+            "title": "tags.html: add Open PR button",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f7b007ebf485e016d2aa4682819dede22d5c61a1"
+        },
+        {
+            "date": "2024-08-14T13:29:58",
+            "title": "Merge pull request #8027 from google/tags-html",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "fb043d8744e3ea4e0c81a241e9ee4daec5d20620"
+        },
+        {
+            "date": "2024-08-14T13:14:59",
+            "title": "tags.html: add basic tag editor",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "98684dca4d3d1443d1314539658a30e6e04becee"
+        },
+        {
+            "date": "2024-08-14T09:41:52",
+            "title": "Merge pull request #8026 from google/m4rc1e-patch-1",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "e79c374d4a30043d6ae531e702e83d5373c8589a"
+        },
+        {
+            "date": "2024-08-14T09:35:54",
+            "title": "Tags: Ensure not-text families don't have other tags",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "16fefca147f6b43c7c2440581b5978769a061b94"
+        },
+        {
+            "date": "2024-08-14T00:48:10",
+            "title": "Tags: Remove self tagged fonts (#8017)",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f4fff1554d80253ae2f6d425e79c99779c794b05"
+        },
+        {
+            "date": "2024-08-14T00:06:35",
+            "title": "Merge pull request #7918 from google/knowledge-delete-broken-link",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "5a166171cac1939512587924a841e9e6b714181f"
+        },
+        {
+            "date": "2024-08-13T22:15:22",
+            "title": "sizecalc: link updated using the web archive",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "42c60c01c9678586caa8b3365f9b83317e9a2b48"
+        },
+        {
+            "date": "2024-08-13T17:31:43",
+            "title": "Touch Sixtyfour Convergence metadata file to get it to repush.",
+            "author": "Garret Rieger",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7438676512c889b76bde089f99bdaef9dc7b094e"
+        },
+        {
+            "date": "2024-08-13T16:32:54",
+            "title": "Merge pull request #8023 from google/davelab6-gama-url",
+            "author": "Viviana Monsalve",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "43405b42bd150c0a667f82c53eeb226e5d789926"
+        },
+        {
+            "date": "2024-08-13T16:23:18",
+            "title": "Update gamaamli/METADATA.pb with minisite_url",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "family",
+            "id": "30eb0ab9368f777b3b03e3d4e32f586c0e575d4d"
+        },
+        {
+            "date": "2024-08-13T12:59:58",
+            "title": "Edu VIC WA NT Guides: Version 1.001 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "7228394178c87fc12cef5dd44c78301d7988ff10"
+        },
+        {
+            "date": "2024-08-13T12:47:40",
+            "title": "Edu VIC WA NT Dots: Version 1.001 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "d287d97d3105f2ca9a354b54490882a41f620474"
+        },
+        {
+            "date": "2024-08-13T12:18:40",
+            "title": "Rename and update font",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "69cc6cf72628a4cc4e513815779263671638e316"
+        },
+        {
+            "date": "2024-08-12T23:17:16",
+            "title": "Remove pushed to_production.txt entries.",
+            "author": "Garret Rieger",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "eb794afc63d198685334f4b60939e767ef5c1814"
+        },
+        {
+            "date": "2024-08-10T09:38:37",
+            "title": "Add sample text for Hentaigana",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "56dd84a4591ace1f0c773c952e6b59fb66cddb6d"
+        },
+        {
+            "date": "2024-08-09T17:03:12",
+            "title": "Removed push to_sandbox items.",
+            "author": "Garret Rieger",
+            "status": "modified",
+            "kind": "family",
+            "id": "539cd46437b64ccdf41f21e253946625f4e31f28"
+        },
+        {
+            "date": "2024-08-09T14:39:08",
+            "title": "Remove dead link",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "768e9dbdafe82ae0604b2b678047ad28e2914b9f"
+        },
+        {
+            "date": "2024-08-09T13:43:18",
+            "title": "Add designer: Batsirai Madzonga",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "designer",
+            "id": "3a400f9b6a31a571fc6b4e8cdccb264a34c1016c"
+        },
+        {
+            "date": "2024-08-09T08:33:43",
+            "title": "Merge pull request #8002 from google/to_lists080824",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "83f9b06dd3da14b6599ca7cef713675222f8f144"
+        },
+        {
+            "date": "2024-08-08T13:26:09",
+            "title": "Lists of the 8th of August",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b5446c883373715da40fd8309dd5dcbb90384faf"
+        },
+        {
+            "date": "2024-08-07T22:23:13",
+            "title": "Switch Noto Color Emoji to Noto Emoji style description (#8000)",
+            "author": "Rod",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "153f76f2f9bca2a65510231c803af25811b74f97"
+        },
+        {
+            "date": "2024-08-07T15:15:31",
+            "title": "Add ftxvalidator CI run",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "929dc59a1dc2872889272d1d67b47e274359921a"
+        },
+        {
+            "date": "2024-08-07T08:29:06",
+            "title": "Move git parsing logic to shared file",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "0aa73ac303633a7e5e748ff1baffbbfdd4892c73"
+        },
+        {
+            "date": "2024-08-07T08:16:36",
+            "title": "Merge pull request #7994 from google/davelab6-gfk-alt-caps",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "157a5b6e383358cb653bfa38cfbcf6aca73a97ea"
+        },
+        {
+            "date": "2024-08-06T20:47:35",
+            "title": "Update to_sandbox.txt with pushed items.",
+            "author": "Garret Rieger",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "47f307584102189614f8518a28745046f5e09b17"
+        },
+        {
+            "date": "2024-08-06T18:34:38",
+            "title": "Update content.md",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "982d07669fa5f09513ad8b0ad8ef2c15f4a82810"
+        },
+        {
+            "date": "2024-08-06T17:32:28",
+            "title": "Update ntroducing_alternate_glyphs/content.md",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3edfee4faddb9ddd6a3ee0a7512157a2f66427b7"
+        },
+        {
+            "date": "2024-08-05T17:27:27",
+            "title": "Update tiny5/METADATA.pb",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ed9aac396ec242f1479c4636498a1e4fe52c3a62"
+        },
+        {
+            "date": "2024-08-02T16:07:54",
+            "title": "Merge pull request #7991 from google/to_lists_0208",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "2c79d252a94d3ed5051375cc78f25723ccbe8033"
+        },
+        {
+            "date": "2024-08-02T15:35:56",
+            "title": "Update to_production.txt",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "59f58ef6818e9b820162050e416f23813f5e666d"
+        },
+        {
+            "date": "2024-08-02T15:01:48",
+            "title": "Update to_production.txt",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1be413e84b38d04ab602692ac7598dbfb6c0c676"
+        },
+        {
+            "date": "2024-08-02T10:09:08",
+            "title": "To_lists of the 02nd of August",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "50ce880c61dfe47844fd5bff76bab9d3532cdaeb"
+        },
+        {
+            "date": "2024-08-02T08:24:56",
+            "title": "Merge pull request #7988 from google/gftools_packager_ofl_cutive",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "89587c355cfb5bd2f0039af918393f153d3dd68c"
+        },
+        {
+            "date": "2024-08-01T14:13:22",
+            "title": "Merge pull request #7969 from emmamarichal/vladimirnikolic",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "designer",
+            "id": "de39e718274ee0436a1191292921a6a347cf1291"
+        },
+        {
+            "date": "2024-08-01T13:55:58",
+            "title": "Merge pull request #7989 from google/matemasie-description",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "94ce6af0f23d35decd2c8b282994d72315d496f0"
+        },
+        {
+            "date": "2024-08-01T13:48:21",
+            "title": "Update url",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a796c427cb7568e60039faab173e826e31f6072c"
+        },
+        {
+            "date": "2024-08-01T13:48:07",
+            "title": "Fix article (link issue)",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "fe268fa13ee8bff73ff66c3c1d889ab778ba1582"
+        },
+        {
+            "date": "2024-08-01T12:07:31",
+            "title": "updated url in description",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "7bc5029eb55b7ccd7662a3ee8434eb7a98b1b8da"
+        },
+        {
+            "date": "2024-08-01T12:02:21",
+            "title": "Cutive: Version 1.110; ttfautohint (v1.8.4.7-5d5b) added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "46bc8761f94b9a4e2422541ae7d845c640c695bf"
+        },
+        {
+            "date": "2024-07-31T08:38:40",
+            "title": "Merge pull request #7980 from google/chrissimpkins-wellfleet-metadata",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "97f020acbffb7abfaad87b25dd55975aa3ef3c2f"
+        },
+        {
+            "date": "2024-07-31T08:28:58",
+            "title": "Update METADATA.pb",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "561b49e9b494828b5af2306b22bd74726b5a6267"
+        },
+        {
+            "date": "2024-07-31T00:45:49",
+            "title": "Refix font tags (#7979)",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "68a7eaa10d115dd084351ea1d52bd7f0166efb0a"
+        },
+        {
+            "date": "2024-07-30T05:48:57",
+            "title": "Update 3_font-bug.md",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "e378509813f938b337111836fee5b9191e8e5860"
+        },
+        {
+            "date": "2024-07-30T05:45:37",
+            "title": "Update 1_add-font.md",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "175b66354dbb7345aee996da8f62883b4d69c51b"
+        },
+        {
+            "date": "2024-07-30T05:44:19",
+            "title": "Update 2_update-font.md",
+            "author": "Dave Crossland",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "02ee16958343570d3ae7c0e5a0521628114610d9"
+        },
+        {
+            "date": "2024-07-29T22:04:01",
+            "title": "Update METADATA.pb",
+            "author": "Chris Simpkins",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "5368cbc893ed8d5638c1e2f8164911c2bd9eb266"
+        },
         {
             "date": "2024-07-26T17:10:37",
             "title": "fix font tags (#7971)",
@@ -37,9 +2045,25 @@
             "date": "2024-07-26T08:51:30",
             "title": "New Amsterdam: Version 1.000; ttfautohint (v1.8.4.7-5d5b) added",
             "author": "Emma Marichal",
-            "status": "new",
+            "status": "modified",
             "kind": "family",
             "id": "82acdc4434c1589a81ce45de037fa8dfdcc56d93"
+        },
+        {
+            "date": "2024-07-26T08:47:03",
+            "title": "Add designer: Vladimir Nikolic",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "ab0111f8420ea9de5d86aa68e7a1d44abd2bc58d"
+        },
+        {
+            "date": "2024-07-24T17:03:37",
+            "title": "Noto Sans Mongolian: Version 3.002; ttfautohint (v1.8.4.7-5d5b) added",
+            "author": "simoncozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "20fd71eed00436ff92cacdffd5574403bc4ce23a"
         },
         {
             "date": "2024-07-23T19:00:09",
@@ -54,16 +2078,160 @@
             "title": "Lang update (#7962)",
             "author": "Nathan Williams",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "family",
             "id": "00f12e7673c0bd0f9abf5ff0869bba8c52a32e2f"
+        },
+        {
+            "date": "2024-07-22T13:48:03",
+            "title": "Merge pull request #154 from googlefonts/unique-language-names",
+            "author": "Nathan Williams",
+            "status": "modified",
+            "kind": "family",
+            "id": "136e32b1982ed8cfe3605de97ccbdd095b93b3a9"
         },
         {
             "date": "2024-07-22T10:21:48",
             "title": "Update push lists",
             "author": "Marc Foley",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "family",
             "id": "3839785477e8192a1b6001942faddccf98f6fa21"
+        },
+        {
+            "date": "2024-07-22T05:57:14",
+            "title": "Fix name structure for two languages",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3cecbbbcb95ebf027eaf8c86ccaa0596845d275c"
+        },
+        {
+            "date": "2024-07-22T05:53:41",
+            "title": "Add regex to deps in TOML config",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a661bc2979d6ed2cec3a429a16c2afecf20525c7"
+        },
+        {
+            "date": "2024-07-22T05:34:24",
+            "title": "Add regex package to dev reqs",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "83eb95f990328d3a6b78fa8aa20c6f0036867e4f"
+        },
+        {
+            "date": "2024-07-22T05:19:51",
+            "title": "Use regex instead of re for access to unicode character classes",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "fc1dc973b3700a426e078e396879daf8f94fecfe"
+        },
+        {
+            "date": "2024-07-22T05:11:13",
+            "title": "Fix unicode character class in language name regex",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1303c7060e80f2356205321ca76ebbcf82144f8f"
+        },
+        {
+            "date": "2024-07-22T05:07:12",
+            "title": "Update character class for language names to use Unicode class",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "91119daf006c5f45b8903c8874dc776a9e72c251"
+        },
+        {
+            "date": "2024-07-22T05:06:51",
+            "title": "Correct a batch of language names",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7d5fe21c45ec7944f09fd43825a693938fa677b8"
+        },
+        {
+            "date": "2024-07-22T04:43:01",
+            "title": "Expand character class for language names",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "640c050f19b10245ef27ebea400f4bf445843c02"
+        },
+        {
+            "date": "2024-07-22T04:21:25",
+            "title": "Re-structure several language names",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "5dc2b3ba0107d90189fde0fe5434086a838c542d"
+        },
+        {
+            "date": "2024-07-22T04:17:18",
+            "title": "Update language name character class to allow accent marks",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d7416e26d08206b908d9fe3d1230f7bcf6d9bee0"
+        },
+        {
+            "date": "2024-07-22T02:49:26",
+            "title": "Fix dash character in character class",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "17b4bdd2ef28ec90afa3d9028c02aa530b70a83e"
+        },
+        {
+            "date": "2024-07-22T00:03:31",
+            "title": "Fix language name regex",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "0db6f9a30733fb8df0c6722d93047afd67669415"
+        },
+        {
+            "date": "2024-07-22T00:01:48",
+            "title": "Remove duplicate entries for Malay",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3a48ff209d6058dc2f18d83078ebcb0d2d60ce0a"
+        },
+        {
+            "date": "2024-07-21T23:15:24",
+            "title": "Fix language name regex to allow spaces and a couple other edge cases",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b84e90ebe51f8ebda84ca9e2e079a51215849875"
+        },
+        {
+            "date": "2024-07-21T23:14:51",
+            "title": "Restructure language names to be consistent",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3e9373a0f3dfce72e0788374d046b6f0a584250d"
+        },
+        {
+            "date": "2024-07-19T16:07:14",
+            "title": "Fix type: endsWith => endswith",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c6fa0d8a8f5e292eed108e49f309801b696331ed"
+        },
+        {
+            "date": "2024-07-19T15:58:10",
+            "title": "Update language name structure test to output error once",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "family",
+            "id": "149b73435c9b0d2205e54e07a355703bd10f1af5"
         },
         {
             "date": "2024-07-19T15:39:27",
@@ -102,24 +2270,72 @@
             "title": "Bungee Tint article added",
             "author": "Viviana Monsalve",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "family",
             "id": "2a8293b0d5f55593340f00cfb59a2580b6b83602"
+        },
+        {
+            "date": "2024-07-18T17:39:35",
+            "title": "Enforce language name structure for both name and preferred name",
+            "author": "nathan-williams",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "bee8c9f22e60fdf0bd49dc586af2ff365a413295"
+        },
+        {
+            "date": "2024-07-18T17:24:45",
+            "title": "Enforce language name structure for both name and preferred name",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "family",
+            "id": "6b34df3c0dd827eea3c604d8aa16215906e68642"
         },
         {
             "date": "2024-07-18T17:22:10",
             "title": "OFL license added",
             "author": "Viviana Monsalve",
-            "status": "new",
-            "kind": "infrastructure",
+            "status": "modified",
+            "kind": "family",
             "id": "3c96c145819e4542704afe82835576426c2e7740"
+        },
+        {
+            "date": "2024-07-18T17:20:40",
+            "title": "Update language names for Ancient Greek, there were duplicates",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "95e4db291778c9f42fe9d600a1126b253253ba43"
+        },
+        {
+            "date": "2024-07-18T17:20:16",
+            "title": "Fix duplicate or near malstructured Chinese language names",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "af1807c6ec727c4e5f022e6faa4179fa395186b8"
+        },
+        {
+            "date": "2024-07-18T17:19:13",
+            "title": "Add test for enforcing language name structure",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "family",
+            "id": "5a57dcaa8a5c159cc026855c6baf69c9ea1c8a20"
         },
         {
             "date": "2024-07-18T17:17:36",
             "title": "Bungee Tint: Version 2.001 added",
             "author": "Viviana Monsalve",
-            "status": "new",
+            "status": "modified",
             "kind": "family",
             "id": "fff14184d4a726b34f96f5044755acca819c4f44"
+        },
+        {
+            "date": "2024-07-18T15:54:03",
+            "title": "Enforce uniqueness of language names across all scripts",
+            "author": "nathan-williams",
+            "status": "modified",
+            "kind": "family",
+            "id": "cc55af739d121218ca1763c84ec2b18c2f7c6214"
         },
         {
             "date": "2024-07-18T15:06:03",
@@ -232,6 +2448,22 @@
             "status": "modified",
             "kind": "family",
             "id": "5f9bd91a324980495a2d423eb9054d865fe2c0ba"
+        },
+        {
+            "date": "2024-07-15T14:34:53",
+            "title": "Merge pull request #153 from googlefonts/revert-152-de_Latn_base_charset_update",
+            "author": "Nathan Williams",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "40918f67946f4ff373ba30ef6b74d5f9a5c42c83"
+        },
+        {
+            "date": "2024-07-15T14:34:07",
+            "title": "Revert \"Update de_Latn.textproto\"",
+            "author": "Nathan Williams",
+            "status": "modified",
+            "kind": "family",
+            "id": "c8f64d01bf842a5ee4509f2f03b145eea45165b2"
         },
         {
             "date": "2024-07-12T09:24:32",
@@ -438,8 +2670,24 @@
             "title": "Update de_Latn.textproto (#7926)",
             "author": "Nathan Williams",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "family",
             "id": "c5c086447f8e59fe4dc841e1a8e633cb48318b93"
+        },
+        {
+            "date": "2024-07-08T22:54:53",
+            "title": "Merge pull request #152 from googlefonts/de_Latn_base_charset_update",
+            "author": "Nathan Williams",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "0f47e099b9d6515d239adba055fac5454313d325"
+        },
+        {
+            "date": "2024-07-08T22:48:01",
+            "title": "Update de_Latn.textproto",
+            "author": "Nathan Williams",
+            "status": "modified",
+            "kind": "family",
+            "id": "6d88fbd4946b1bdad6a2e7450e102deef7c59525"
         },
         {
             "date": "2024-07-05T18:45:47",
@@ -589,9 +2837,17 @@
             "date": "2024-07-04T01:07:20",
             "title": "Sixtyfour Convergence: Version 2.001 added",
             "author": "Viviana Monsalve",
-            "status": "new",
+            "status": "modified",
             "kind": "family",
             "id": "e4da5661bfec407855fc2b16dca08be56befc03c"
+        },
+        {
+            "date": "2024-07-03T23:08:12",
+            "title": "sizecalc.com broken link deleted",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "acdc00406ce9e3d216df8d6fb69763cefaac8665"
         },
         {
             "date": "2024-07-03T23:01:02",
@@ -2064,6 +4320,14 @@
             "status": "modified",
             "kind": "family",
             "id": "ae0acde5fb54af560485545d6d015906c89782e0"
+        },
+        {
+            "date": "2024-06-11T13:48:34",
+            "title": "Noto Serif Old Uyghur: Version 1.004; ttfautohint (v1.8.4.7-5d5b) added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "93d81b6b650ae0f96e0d1adef6e1a8c447b80508"
         },
         {
             "date": "2024-06-11T10:05:55",
@@ -7544,6 +9808,14 @@
             "status": "modified",
             "kind": "family",
             "id": "26354c482de2e6033a8d7a3bf9a5b13c02e51642"
+        },
+        {
+            "date": "2024-03-20T12:55:57",
+            "title": "Edu VIC WA NT Arrows: Version 1.000 added",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "23d61d630f27934d58ec1130c16681cc760923b5"
         },
         {
             "date": "2024-03-20T12:45:17",
@@ -66365,28 +68637,348 @@
     "pushes": {
         "sandbox": [
             {
-                "path": "ofl/bungeetint",
-                "category": "New",
+                "path": "ofl/miriamlibre",
+                "category": null,
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7952"
+                "url": "https://github.com/google/fonts/pull/7534"
             },
             {
-                "path": "ofl/matemasie",
-                "category": "New",
+                "path": "ofl/akayatelivigala",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7875"
+                "url": "https://github.com/google/fonts/pull/8083"
             },
             {
-                "path": "ofl/moderustic",
-                "category": "New",
+                "path": "ofl/akshar",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7936"
+                "url": "https://github.com/google/fonts/pull/8083"
             },
             {
-                "path": "ofl/anuphan",
+                "path": "ofl/almarai",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/anekbangla",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/anekdevanagari",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/anekgujarati",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/anekkannada",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/anekmalayalam",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/anekodia",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/anektamil",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8083"
+            },
+            {
+                "path": "ofl/kaiseiharunoumi",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/kaiseiopti",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/kaiseitokumin",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/kalam",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/kantumruypro",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/karlatamilinclined",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/karlatamilupright",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/karma",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/katibeh",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/kdamthmorpro",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8089"
+            },
+            {
+                "path": "ofl/khand",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/khmer",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/khula",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/kiwimaru",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/kleeone",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/kohsantepheap",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/kumarone",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/laila",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/lakkireddy",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/liujianmaocao",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8090"
+            },
+            {
+                "path": "ofl/nanumgothiccoding",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8093"
+            },
+            {
+                "path": "ofl/nanumpenscript",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8093"
+            },
+            {
+                "path": "ofl/newtegomin",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8093"
+            },
+            {
+                "path": "ofl/nokora",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8093"
+            },
+            {
+                "path": "ofl/notosansarabicui",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosansbamum",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosansbengaliui",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosanscaucasianalbanian",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosanscyprominoan",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosansdevanagariui",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosanselymaic",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosansgujaratiui",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosansgurmukhiui",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notosansindicsiyaqnumbers",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8094"
+            },
+            {
+                "path": "ofl/notoserifhentaigana",
+                "category": "Metadata / Description / License",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8013"
+            }
+        ],
+        "production": [
+            {
+                "path": "ofl/afacadflux",
+                "category": "New",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/7851"
+            },
+            {
+                "path": "ofl/eduauvicwantdots",
+                "category": "New",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8020"
+            },
+            {
+                "path": "ofl/eduauvicwantguides",
+                "category": "New",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8021"
+            },
+            {
+                "path": "ofl/sixtyfourconvergence",
+                "category": "New",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/7919"
+            },
+            {
+                "path": "ofl/librefranklin",
                 "category": "Upgrade",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7942"
+                "url": "https://github.com/google/fonts/pull/8134"
+            },
+            {
+                "path": "ofl/notosansmongolian",
+                "category": "Upgrade",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/7964"
+            },
+            {
+                "path": "ofl/notoserifhk",
+                "category": "Upgrade",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8050"
+            },
+            {
+                "path": "ofl/notoserifjp",
+                "category": "Upgrade",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8051"
+            },
+            {
+                "path": "ofl/notoserifkr",
+                "category": "Upgrade",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8052"
+            },
+            {
+                "path": "ofl/notoserifolduyghur",
+                "category": "Upgrade",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/7849"
+            },
+            {
+                "path": "ofl/notoseriftc",
+                "category": "Upgrade",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8056"
             },
             {
                 "path": "catalog/designers/gustavoibarra",
@@ -66395,456 +68987,154 @@
                 "url": "https://github.com/google/fonts/pull/7547"
             },
             {
-                "path": "cc-by-sa/knowledge/modules/using_variable_fonts_on_the_web/lessons/optimizing_typographic_space_with_variable_fonts/content.md",
+                "path": "cc-by-sa/knowledge/modules/the_canadian_syllabics/lessons/inuktut_syllabics/content.md",
                 "category": "Knowledge",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7803"
+                "url": "https://github.com/google/fonts/pull/8048"
             },
             {
-                "path": "ofl/cactusclassicalserif",
+                "path": "lang/languages/alq_Latn.textproto",
+                "category": "Knowledge",
+                "status": null,
+                "url": "https://github.com/google/fonts/pull/8048"
+            },
+            {
+                "path": "ofl/alata",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7838"
+                "url": "https://github.com/google/fonts/pull/8131"
             },
             {
-                "path": "ofl/chocolateclassicalsans",
+                "path": "ofl/alegreya",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7838"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/jaro",
+                "path": "ofl/alegreyasans",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7934"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/lxgwwenkaimonotc",
+                "path": "ofl/andadapro",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7838"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/lxgwwenkaitc",
+                "path": "ofl/besley",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7838"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "lang/languages/bdh_Latn.textproto",
-                "category": "Sample texts",
+                "path": "ofl/bonanova",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "lang/languages/beh_Latn.textproto",
-                "category": "Sample texts",
+                "path": "ofl/brygada1918",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "lang/languages/bgn_Arab.textproto",
-                "category": "Sample texts",
+                "path": "ofl/cambo",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "lang/languages/bkc_Latn.textproto",
-                "category": "Sample texts",
+                "path": "ofl/climatecrisis",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "lang/languages/bsc_Latn_GN.textproto",
-                "category": "Sample texts",
+                "path": "ofl/ebgaramond",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "lang/languages/bsq_Bass.textproto",
-                "category": "Sample texts",
+                "path": "ofl/figtree",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "lang/languages/bsq_Latn.textproto",
-                "category": "Sample texts",
+                "path": "ofl/grandstander",
+                "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/cjy_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/cjy_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/crh_Cyrl.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/dnj_Latn_LR.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/evn_Latn.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/gan_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/gan_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/hak_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/hak_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/hak_Latn.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/hsn_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/hsn_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/kr_Arab.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/lzh_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/lzh_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/nan_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/nan_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/nan_Latn.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/sa_Nand.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/uma_Latn.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/wal_Ethi.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/wal_Latn.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/wuu_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/wuu_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/xsm_Latn_BF.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "lang/languages/yue_Hani.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/yue_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/yue_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/za_Hans.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/za_Hant.textproto",
-                "category": "Sample texts",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7877"
-            },
-            {
-                "path": "lang/languages/mlt_Latn.textproto",
-                "category": "Deleted",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7680"
-            },
-            {
-                "path": "tags/all/families.csv",
-                "category": null,
-                "status": null,
-                "url": null
-            }
-        ],
-        "production": [
-            {
-                "path": "ofl/sankofadisplay",
-                "category": "New",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7614"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
                 "path": "ofl/inter",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7776"
-            },
-            {
-                "path": "ofl/notosanscham",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7685"
-            },
-            {
-                "path": "ofl/notosanskaithi",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7855"
-            },
-            {
-                "path": "ofl/notosanslimbu",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7827"
-            },
-            {
-                "path": "ofl/notosansmandaic",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7828"
-            },
-            {
-                "path": "ofl/notosansmarchen",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7829"
-            },
-            {
-                "path": "ofl/notosansnagmundari",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7845"
-            },
-            {
-                "path": "ofl/notosansolditalic",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7846"
-            },
-            {
-                "path": "ofl/notosansoldsogdian",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7847"
-            },
-            {
-                "path": "ofl/notosansoldturkic",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7848"
-            },
-            {
-                "path": "ofl/notosanspsalterpahlavi",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7857"
-            },
-            {
-                "path": "ofl/notoserifbalinese",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7929"
-            },
-            {
-                "path": "ofl/philosopher",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7887"
-            },
-            {
-                "path": "ofl/bethellen",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7627"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/bricolagegrotesque",
+                "path": "ofl/jetbrainsmono",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7761"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/cactusclassicalserif",
+                "path": "ofl/jost",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/chocolateclassicalsans",
+                "path": "ofl/lexend",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/danfo",
+                "path": "ofl/overpass",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7689"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/lxgwwenkaimonotc",
+                "path": "ofl/piazzolla",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/lxgwwenkaitc",
+                "path": "ofl/publicsans",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/notosanshk",
+                "path": "ofl/robotoserif",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/notosanssc",
+                "path": "ofl/spacemono",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/notosanstc",
+                "path": "ofl/unbounded",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
+                "url": "https://github.com/google/fonts/pull/7074"
             },
             {
-                "path": "ofl/notoserifhk",
+                "path": "ofl/vollkorn",
                 "category": "Metadata / Description / License",
                 "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
-            },
-            {
-                "path": "ofl/notoserifsc",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
-            },
-            {
-                "path": "ofl/notoseriftc",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7792"
-            },
-            {
-                "path": "ofl/wittgenstein",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7920"
-            },
-            {
-                "path": "ofl/elsieswashcaps",
-                "category": "Other",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7522"
-            },
-            {
-                "path": "lang/languages/sa_Sylo.textproto",
-                "category": "Deleted",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/7248"
+                "url": "https://github.com/google/fonts/pull/7074"
             }
         ]
     }
